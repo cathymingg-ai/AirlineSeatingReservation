@@ -1,5 +1,4 @@
 Project Details
-Name: Cathleen San Buenaventura 
 Date Created: [4/01/24]
 Date Finished: [4/03/24]
 
